@@ -21,7 +21,7 @@ _For feedback or to express your usage of the course materials, please reach out
 
 ---
 
-## Table of Contents (Major Holiday Release: September 25, 2024 - A-I Vocational Training Institute of Cybersecurity)
+## Table of Contents (Major Holiday Release: September 25, 2024)
 
 - Basic Computer Skills for Digital Forensics
 
