@@ -1,7 +1,7 @@
 # A-I Vocational Training Institute of Cybersecurity 
 # Digital Forensics Lab & Shared Cyber Forensic Intelligence Repository
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/BJA_Logo.png" width="150"> <img src="https://www.nist.gov/sites/default/files/images/2017/06/16/dsh-st.jpg" width="150"><img src="https://www.nsf.gov/news/mmg/media/images/bitmaplogo_nolayers_f_e50fcd0b-607b-4271-a808-914d9c2f65dc.png" width="110">
+<img src="https://portal.aivtic.org.ng/portal/images/logo1.png" width="150"> <img src="https://www.nist.gov/sites/default/files/images/2017/06/16/dsh-st.jpg" width="150"><img src="https://www.nsf.gov/news/mmg/media/images/bitmaplogo_nolayers_f_e50fcd0b-607b-4271-a808-914d9c2f65dc.png" width="110">
 
 ### Features of Repository
 
