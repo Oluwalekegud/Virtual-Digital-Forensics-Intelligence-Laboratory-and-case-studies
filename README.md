@@ -30,7 +30,7 @@ _For feedback or to express your usage of the course materials, please reach out
 
 ---
 
-## Table of Contents (Major Holiday Release: September 25, 2024 - A-I Vocational Training Institute of Cybersecurity: Echo Show Investigations Preview)
+## Table of Contents (Major Holiday Release: September 25, 2024 - A-I Vocational Training Institute of Cybersecurity)
 
 - Basic Computer Skills for Digital Forensics
 
@@ -87,7 +87,7 @@ _For feedback or to express your usage of the course materials, please reach out
 
 ### Method 1: Importing customized Kali VM image
 
-The customized Kali VM = Kali ([2021.4](http://old.kali.org/kali-images/kali-2021.4/)) + [tools](#Tools) used for completing most of the labs listed above (except p2p Data Leakage case)
+The customized Kali VM = Kali ([2024.1](http://old.kali.org/kali-images/kali-2021.4/)) + [tools](#Tools) used for completing most of the labs listed above (except p2p Data Leakage case)
 
 - Install [Virtualbox](https://www.virtualbox.org/)
 - Import the customized [Kali 2021.4](https://www.dropbox.com/s/y7svxg2pyy94ab5/Kali-Linux-2020.4-vbox-amd64_tools.ova). Notes: the default harddisk size is 80G.
@@ -405,10 +405,3 @@ Here are some political insights based on the leaked email summaries obtained fr
 
 ---
 
-## Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=frankwxu/digital-forensics-lab&type=Date)](https://star-history.com/#frankwxu/digital-forensics-lab&Date)
-
-<a href="https://trackgit.com">
-<img src="https://us-central1-trackgit-analytics.cloudfunctions.net/token/ping/ksb44j1gmfoc4ht18prk" alt="trackgit-views" />
-</a>
