@@ -19,15 +19,6 @@ _For feedback or to express your usage of the course materials, please reach out
 
 
 
-@inproceedings{Aminu2024forensics,
-  title={Shared Digital Forensics Educational Resources},
-  author={Aminu, Idris and Sarah, James and Babayo, Aliyu},
-  booktitle={International Conference on Cybersecurity Education (ICCE 2024)},
-  year={2024},
-  organization={A-I Vocational Training Institute of Cybersecurity}
-}
-
-
 ---
 
 ## Table of Contents (Major Holiday Release: September 25, 2024 - A-I Vocational Training Institute of Cybersecurity)
