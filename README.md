@@ -1,7 +1,7 @@
 # A-I Vocational Training Institute of Cybersecurity 
 # Virtual Digital Forensics Intelligence Laboratory
 
-<img src="https://portal.aivtic.org.ng/portal/images/logo1.png" width="100"> <img src="http://nasitdea.na.gov.ng/wp-content/uploads/2023/12/NASITDA-LOGO-1.png" width="200">
+<img src="https://portal.aivtic.org.ng/portal/images/logo1.png" width="100"> <img src="http://nasitdea.na.gov.ng/wp-content/uploads/2023/12/NASITDA-LOGO-1.png" width="250">
 
 ### Features of Repository
 
